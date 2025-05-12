@@ -4,3 +4,7 @@
 #	Variable, name="Hello there"
 name="Hello there"
 #print("1. Length is: ", len(name))
+
+
+
+
